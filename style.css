@@ -1,0 +1,77 @@
+body{
+    background-color: teal;
+}
+.a{
+    background-color:darkslategray;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.white{
+    color: white;
+}
+#h1{
+    background-color:lightblue;
+    color: darkred;
+}
+.b{
+    background-color:lightblue;
+    text-align: center;
+}
+#menu{
+    color: darkred;
+    text-align: left;
+    background-color: lightgray;
+}
+.c{
+    background-color:lightblue;
+    text-align: center;
+}
+.d{
+    background-color:lightblue;
+    text-align: center;
+}
+#fdishes{
+        color: darkred;
+        text-align: left;
+        background-color: lightgray;
+}
+.e{
+    background-color:lightblue;
+    text-align: center;
+}
+.f{
+    background-color:lightblue;
+    padding: 10px;
+}
+#contact{
+    color: darkred;
+}
+#submit{
+    background-color: darkblue;
+    color: white;
+
+}
+#danish{
+    color: white;
+    text-align: right;
+}
+#pic1{
+    height:700px;
+    width: 800px;
+}
+
+#pic2{
+    height:250px;
+    width: 350px;
+}
+
+#pic3{
+    height:1500px;
+    width: 1500px;
+}
+
+#pic4{
+    height:2000px;
+    width: 2000px;
+}
